@@ -18,7 +18,7 @@ allprojects {
         mavenCentral()
     }
 
-    group = "com.github.navasmdc"
+    group = "com.github.NextBillionaires"
     version = "1.4"
 }
 
